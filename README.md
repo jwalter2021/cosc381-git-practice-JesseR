@@ -1,1 +1,2 @@
-This is a practice repo for COSC 381
+# git_practice
+in the test-branch
